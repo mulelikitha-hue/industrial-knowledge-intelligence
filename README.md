@@ -196,6 +196,6 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-**Mule Kowshik**
+**Mule Likitha**
 
 GitHub: https://github.com/mulelikitha-hue
